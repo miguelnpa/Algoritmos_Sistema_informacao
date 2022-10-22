@@ -1,0 +1,1 @@
+Jogo Simples de adivinhar um número de 0 a 10 criado em Python.
